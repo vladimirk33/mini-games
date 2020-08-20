@@ -1,0 +1,10 @@
+..\superwires\__init__.py
+..\superwires\__pycache__\__init__.cpython-38.pyc
+..\superwires\__pycache__\color.cpython-38.pyc
+..\superwires\__pycache__\games.cpython-38.pyc
+..\superwires\color.py
+..\superwires\games.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+top_level.txt
